@@ -1,0 +1,28 @@
+---
+layout: "post"
+title: "好记性不如烂笔头"
+date: "2018-12-15 19:03"
+---
+
+#####Windows启、停MySql
+```
+win+R 键入：
+
+net start mysql
+net stop mysql
+
+注：windows不能直接restart Mysql;    如果是mysql 8.0，需要在命令后写mysql80
+```
+___
+
+#####XML5个转义符
+```
+<    &lt;
+>    &gt;
+&    &amp;
+”    &quot;
+©    &apos;
+
+注："&"和";"是成对的
+```
+---
