@@ -3,12 +3,20 @@ layout: "post"
 title: "干货文档"
 date: "2018-12-15 19:52"
 ---
+
 ###Java系列：
 
-######Spring干货：[嘟嘟独立博客][681233cb]
+
+###### Spring干货：[嘟嘟独立博客][681233cb]
 
 [681233cb]: http://tengj.top/ "嘟嘟独立博客"
 
-###### Druid：[介绍及配置][4dcbebf8]
+
+###### Druid连接池：[Druid介绍及配置][4dcbebf8]
 
 [4dcbebf8]: https://www.cnblogs.com/niejunlei/p/5977895.html "Druid介绍及配置"
+
+
+###### Java并发编程：[并发编程网][13adb92c5]
+
+[13adb92c5]: http://ifeve.com/java-concurrency-thread-directory/ "并发编程网"

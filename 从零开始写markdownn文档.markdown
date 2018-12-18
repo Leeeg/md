@@ -4,19 +4,9 @@ title: "从零开始写Markdownn文档"
 date: "2018-12-15 17:05"
 ---
 
----
-layout: "post"
-title: "mdRule"
-date: "2018-12-13 16:53"
----
-
 [『Cmd 技术渲染的沙箱页面，点击此处编写自己的文档』](https://www.zybuluo.com/mdeditor "作业部落旗下 Cmd 在线 Markdown 编辑阅读器")
 
-# Cmd Markdown 简明语法手册
-
-标签： Cmd-Markdown
-
----
+# Markdown 简明语法手册
 
 ### 1. 斜体和粗体
 
@@ -90,11 +80,15 @@ date: "2018-12-13 16:53"
 
 ### 8.  代码块
 
-使用 四个缩进空格 表示代码块。
+使用 四个缩进空格或\```代码块```  表示代码块。
 
 示例：
 
     这是一个代码块，此行左侧有四个不可见的空格。
+
+```
+这是一个代码块
+```
 
 ### 9.  插入图像
 
@@ -104,7 +98,7 @@ date: "2018-12-13 16:53"
 
 ![我的头像](https://www.zybuluo.com/static/img/my_head.jpg)
 
-# Cmd Markdown 高阶语法手册
+# Markdown 高阶语法手册
 
 ### 1. 内容目录
 
