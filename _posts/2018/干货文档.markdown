@@ -20,3 +20,14 @@ date: "2018-12-15 19:52"
 ###### Java并发编程：[并发编程网][13adb92c5]
 
 [13adb92c5]: http://ifeve.com/java-concurrency-thread-directory/ "并发编程网"
+
+###### Mapper接口：[接口大全][49a22660]
+
+[49a22660]: https://mapperhelper.github.io/all/ "Mapper接口大全"
+
+
+### Android系列：
+
+###### 优秀框架：[Android优秀框架][49a22661]
+
+[49a22661]: https://blog.csdn.net/huangxiaoguo1/article/details/79032186 "Android优秀框架："
