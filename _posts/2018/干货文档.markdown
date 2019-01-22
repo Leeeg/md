@@ -31,3 +31,16 @@ date: "2018-12-15 19:52"
 ###### 优秀框架：[Android优秀框架][49a22661]
 
 [49a22661]: https://blog.csdn.net/huangxiaoguo1/article/details/79032186 "Android优秀框架："
+
+###### OPUS：[OPUS音频库][49a22662]
+
+[49a22662]: https://www.zybuluo.com/khan-lau/note/383775 "OPUS音频库"
+
+###### 音视频开发：[Android音视频开发][49a22663]
+
+[49a22663]: https://zhuanlan.zhihu.com/p/28518637 "Android音视频开发"
+
+
+###### OPUS demo：[ OPUS demo][49a22664]
+
+[49a22664]: https://github.com/inodevip/OpusLibAndroidDemo " OPUS demo"
