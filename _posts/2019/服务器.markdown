@@ -1,0 +1,17 @@
+---
+layout: "post"
+title: "服务器"
+date: "2019-04-15 10:18"
+---
+
+##### 1.nohup启动jar提示：
+> ignoring input and redirecting stderr to stdout
+
+修改为：`nohup java -jar xxxx.jar > xxxx.log 2>&1 &`
+
+##### 2.Nginx 防止404
+```
+location / {
+		index index.html index.htm;
+	}
+```
