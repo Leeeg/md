@@ -15,3 +15,5 @@ location / {
 		index index.html index.htm;
 	}
 ```
+
+##### 3.yum安装的程序跟安装包安装启动方式不同 ```yum安装需要通过service start```

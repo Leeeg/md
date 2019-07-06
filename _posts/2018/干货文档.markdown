@@ -34,10 +34,11 @@ date: "2018-12-15 19:52"
 
 ###### Mysql：[CentOs中mysql的安装与配置][fcb26c6e]
 
-[fcb26c6e]:
-https://www.cnblogs.com/gradven/p/5023734.html"CentOs中mysql的安装与配置"
+[fcb26c6e]: https://www.cnblogs.com/gradven/p/5023734.html "CentOs中mysql的安装与配置"
 
+###### FastFDS：[CentOs中FastFDS文件服务器的安装与配置][fcb26c87]
 
+[fcb26c87]: https://www.jianshu.com/p/39f87e6e615a.html "CentOs中FastFDS文件服务器的安装与配置"
 
 ### Android系列：
 
@@ -57,3 +58,17 @@ https://www.cnblogs.com/gradven/p/5023734.html"CentOs中mysql的安装与配置"
 ###### OPUS demo：[ OPUS demo][49a22664]
 
 [49a22664]: https://github.com/inodevip/OpusLibAndroidDemo " OPUS demo"
+
+
+###### RXJava[ RXJava][49a22678]
+
+[49a22678]: https://juejin.im/post/5b17560e6fb9a01e2862246f#heading-31 "RxJava2 只看这一篇文章就够了"
+
+
+###### 组件化[ 组件化][49a22648]
+
+[49a22648]: https://juejin.im/post/5a4c6779f265da431f4b7589 "Android组件化开发"
+
+###### ARouter[ ARouter路由解析][49a22628]
+
+[49a22628]: http://www.jcodecraeer.com/a/anzhuokaifa/2019/0220/12655.html "ARouter路由解析"
